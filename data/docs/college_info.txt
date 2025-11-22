@@ -1,0 +1,333 @@
+NOVA TECH INSTITUTE OF ENGINEERING & TECHNOLOGY (NIET)
+===========================================================
+A Fully Fictional College – For AI Chatbot Use Only
+===========================================================
+
+----------------------------------------------------
+GENERAL COLLEGE INFORMATION
+----------------------------------------------------
+
+College Name:
+NovaTech Institute of Engineering & Technology (NIET)
+
+Location:
+Cyber Valley, Techno City, India
+
+Established:
+2008
+
+Affiliation:
+Technova State University
+
+Accreditation:
+NAAC A+, NBA Accredited Programs
+
+College Timings:
+The college operates from 9:00 AM to 5:00 PM, Monday to Saturday.
+
+Administrative Office Timings:
+9:00 AM to 6:00 PM
+
+Lunch Break:
+12:30 PM to 1:30 PM
+
+Holiday List:
+Updated every semester in the student portal and notice board.
+
+Emergency Contact:
+Helpdesk: 1800-900-4455
+Security Office (24x7): +91 90000 11223
+
+----------------------------------------------------
+ATTENDANCE & RULES
+----------------------------------------------------
+
+Attendance Requirement:
+Minimum 75% attendance is required to attend semester exams.
+
+Condonation Policy:
+65%-74% attendance requires condonation with fine.
+
+Leave Procedure:
+Apply for leave through Student Portal → Leave Section.
+
+Late Entry:
+After 9:10 AM, students must report to the Discipline Desk.
+
+Mobile Phone Policy:
+Phones allowed only for academic use. Strictly banned in labs & exams.
+
+Anti-Ragging:
+Zero tolerance policy as per UGC rules.
+Ragging Helpline: 1800-900-9988
+
+----------------------------------------------------
+FEES & PAYMENT
+----------------------------------------------------
+
+Tuition Fee (B.Tech):
+₹95,000 per year.
+
+Tuition Fee (M.Tech):
+₹1,20,000 per year.
+
+Payment Modes:
+Online portal (UPI/Net banking)
+Accounts Office (Card/DD)
+
+Hostel Fee:
+₹55,000 – ₹68,000 per academic year.
+
+Transport Fee:
+₹18,000 – ₹32,000 depending on route.
+
+Fee Deadlines:
+Two installments – July & December.
+
+Refund Policy:
+As per Technova State University regulations.
+
+----------------------------------------------------
+SCHOLARSHIPS & FINANCIAL AID
+----------------------------------------------------
+
+Scholarships Available:
+• Merit Scholarship (Top 10% students)
+• Girl Student Merit Scheme
+• State Government Scholarship
+• National Scholarship Portal (NSP)
+• SC/ST/EWS Scholarship
+• Need-based Fee Waiver
+
+Scholarship Status:
+Track via NIET Portal → Scholarship Dashboard.
+
+----------------------------------------------------
+EXAMS & ACADEMICS
+----------------------------------------------------
+
+Internal Exams:
+Two internal exams held each semester.
+
+Semester Exams:
+Conducted by Technova State University.
+Held in December and May.
+
+Backlog Exams:
+Conducted along with next semester cycle.
+
+Revaluation:
+Apply within 5 days after results.
+
+Timetable:
+Updated regularly on the student portal and department boards.
+
+Hall Tickets:
+Can be downloaded from NIET Student Portal.
+
+Assignments:
+Must be submitted by deadlines provided by faculty.
+
+----------------------------------------------------
+HOSTEL INFORMATION
+----------------------------------------------------
+
+Hostel Types:
+3 boys' hostels, 2 girls' hostels.
+
+Room Types:
+Single, Double, Triple sharing.
+
+Hostel Timings:
+Entry closes at 9:00 PM.
+
+Mess:
+Veg & non-veg menu.
+Monthly food calendar available in NIET App.
+
+Hostel Facilities:
+Wi-Fi, CCTV, laundry, study hall, 24/7 security.
+
+Hostel Out-Pass:
+Apply before 6:00 PM via Hostel App.
+
+----------------------------------------------------
+LIBRARY & DIGITAL RESOURCES
+----------------------------------------------------
+
+Library Timings:
+8:30 AM to 7:00 PM
+
+Book Borrowing:
+3 books issued for 14 days.
+
+Late Fine:
+₹5 per day.
+
+Digital Resources:
+IEEE, NPTEL, Coursera, J-Gate access.
+
+Reading Hall:
+Open for quiet study.
+
+----------------------------------------------------
+PLACEMENTS & INTERNSHIPS
+----------------------------------------------------
+
+Placement Cell:
+94% placement rate for 2024 batch.
+
+Top Recruiters:
+Infosys, TCS, Capgemini, HCL, Cognizant, Amazon, Google-Apprenticeship.
+
+Average Package:
+₹4.8 LPA
+
+Highest Package:
+₹18 LPA
+
+Internship Opportunities:
+Available for 2nd & 3rd-year students.
+Stipend ranges ₹8,000 – ₹25,000.
+
+Placement Eligibility:
+Minimum 6 CGPA
+No active backlogs
+
+----------------------------------------------------
+DEPARTMENTS & PROGRAMS
+----------------------------------------------------
+
+CSE Department:
+Focuses on programming, AI, ML, cybersecurity, data structures.
+
+IT Department:
+Deals with web tech, databases, networking, cloud computing.
+
+AI & ML Department:
+Specialized in deep learning, neural networks, NLP, computer vision.
+
+ECE Department:
+Offers labs in circuits, VLSI, microprocessors, embedded systems.
+
+Mechanical Department:
+Workshops include CAD, manufacturing, thermal engineering.
+
+Civil Engineering:
+Structural engineering labs and surveying practice.
+
+----------------------------------------------------
+IT & CSE LAB DETAILS
+----------------------------------------------------
+
+Block D – NovaTech Innovation Center:
+Ground Floor: Coding Lab
+1st Floor: AI/ML Lab
+2nd Floor: IoT & Data Science Lab
+3rd Floor: Project Innovation Hall
+
+Popular CSE Subjects:
+• DSA
+• Operating Systems
+• DBMS
+• Computer Networks
+• Machine Learning
+• Python & Java Programming
+
+----------------------------------------------------
+CAMPUS BUILDINGS & FACILITIES
+----------------------------------------------------
+
+Block A – Administration  
+Block B – CSE & IT Departments  
+Block C – ECE & Mechanical Labs  
+Block D – Innovation Center & Advanced Labs  
+Block E – Library & Seminar Halls  
+Block F – Main Auditorium (1200 seats)
+
+Sports Facilities:
+Basketball court, cricket ground, gym, volleyball, indoor games.
+
+Canteen:
+Open from 8:30 AM to 6:00 PM.
+Offers South Indian, North Indian & fast food.
+
+----------------------------------------------------
+TRANSPORT SERVICES
+----------------------------------------------------
+
+Bus Routes:
+32 routes across Techno City.
+
+Morning Arrival:
+8:45 AM
+
+Evening Departure:
+5:10 PM
+
+Bus Pass:
+Issued via portal under Transport Section.
+
+----------------------------------------------------
+EVENTS & FESTS
+----------------------------------------------------
+
+Major Events:
+• TechNova Fest (Annual Tech Fest)
+• Nova Cultural Carnival
+• Sports Week
+• Hackathon (48 hours)
+• Project Expo
+• Freshers Day & Farewell
+
+Event Updates:
+Posted on portal & email notifications.
+
+----------------------------------------------------
+CERTIFICATES ISSUED
+----------------------------------------------------
+
+Bonafide Certificate:
+Issued within 24 hours.
+
+Study Certificate:
+Same day issue.
+
+Transfer Certificate:
+Provided after course completion.
+
+Conduct Certificate:
+Issued by department office.
+
+----------------------------------------------------
+MEDICAL & WELLNESS
+----------------------------------------------------
+
+Medical Room:
+On-campus nurse available.
+
+Doctor Visits:
+3 days a week.
+
+Ambulance:
+Available 24/7.
+
+Counselling Cell:
+Support available for academic and personal issues.
+
+----------------------------------------------------
+TECHNICAL SUPPORT
+----------------------------------------------------
+
+Wi-Fi Access:
+Credentials provided by IT department.
+
+Password Reset:
+Available through NIET Portal.
+
+Portal Assistance:
+Email: support@niet.edu
+
+----------------------------------------------------
+END OF DOCUMENT
+----------------------------------------------------

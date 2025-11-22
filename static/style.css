@@ -1,0 +1,117 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #eef2f7;
+}
+
+/* HEADER */
+.app-header {
+    background: #083c78;
+    padding: 25px;
+    text-align: center;
+    color: white;
+    box-shadow: 0px 2px 6px rgba(0,0,0,0.15);
+}
+
+.header-title {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.header-sub {
+    font-size: 14px;
+    margin-top: 4px;
+    opacity: 0.9;
+}
+
+/* CHAT CONTAINER */
+.chat-container {
+    width: 100%;
+    height: calc(100vh - 200px);
+    overflow-y: auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+/* USER MESSAGE */
+.user-msg {
+    background: #dce9ff;
+    color: #000;
+    padding: 12px 15px;
+    margin: 10px;
+    border-radius: 12px;
+    align-self: flex-end;
+    max-width: 70%;
+}
+
+/* BOT MESSAGE */
+.bot-msg {
+    background: #e9f7e9;
+    color: #000;
+    padding: 12px 15px;
+    margin: 10px;
+    border-radius: 12px;
+    max-width: 70%;
+}
+
+/* INPUT BAR */
+.input-bar {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: white;
+    padding: 12px;
+    box-shadow: 0px -2px 6px rgba(0,0,0,0.1);
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.input-bar input {
+    flex: 1;
+    padding: 13px 15px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 25px;
+    outline: none;
+}
+
+.send-btn {
+    background: #0066ff;
+    border: none;
+    padding: 12px 20px;
+    color: white;
+    font-size: 15px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.icon-btn {
+    background: #f3f3f3;
+    border: none;
+    border-radius: 50%;
+    width: 42px;
+    height: 42px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+/* START CHATBOT BUTTON (HOMEPAGE) */
+.start-btn {
+    display: inline-block;
+    padding: 14px 34px;
+    background: #0056D2;
+    color: #fff;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 25px;
+    transition: 0.3s ease-in-out;
+}
+
+.start-btn:hover {
+    background: #003c9d;
+}
+
